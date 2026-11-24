@@ -37,11 +37,6 @@ Lagu-lagu iki nganggo basa Jawa. Iki musisi sing nyanyi nganggo basa Jawa — an
 <span class="ig-card__text"><span class="ig-card__name">Yusak Sudjarwo</span>
 <span class="ig-card__note">Nyanyi akustik «Percoyo Sabdane» — basa Jawa.</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DegT9NKSZJi/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/abednego_sugianto.jpg" alt="Abdi Gusti" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Abdi Gusti</span>
-<span class="ig-card__note">Kidungan Kristen basa Jawa nganggo gamelan.</span></span>
-</a>
 <a class="ig-card" href="https://www.instagram.com/reel/DfhOyiRBMS5/" target="_blank" rel="noopener">
 <img class="ig-card__img" src="/images/music-faith/kalvin9256.jpg" alt="Dr. Kalvin" loading="lazy" width="150" height="150">
 <span class="ig-card__text"><span class="ig-card__name">Dr. Kalvin</span>
